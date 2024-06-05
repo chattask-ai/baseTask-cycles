@@ -1,8 +1,4 @@
-Sure, here's the markdown document with both Python and R code for time series decomposition.
-
----
-
-# Time Series Decomposition
+# Time Series Decomposition (Cycles)
 
 ## Introduction
 
@@ -189,7 +185,3 @@ prophet_plot_components(model, forecast)
 ## Conclusion
 
 Time series decomposition is a powerful tool for analyzing the components of a time series. By breaking down the series into trend, seasonality, and residuals, you can better understand the underlying patterns and make more accurate forecasts.
-
-Understanding the theory behind the decomposition process and how to implement it using various tools will enhance your ability to analyze time series data effectively.
-
----
